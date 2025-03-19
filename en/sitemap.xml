@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/"
+                href="https://example.com/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/"
+                href="https://example.com/"
                 />
   </url><url>
-    <loc>http://localhost:1313/contacts/</loc>
+    <loc>https://example.com/contacts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/contatti/"
+                href="https://example.com/contatti/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/contacts/"
+                href="https://example.com/contacts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>https://example.com/services/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/caratteristiche/"
+                href="https://example.com/caratteristiche/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/services/"
+                href="https://example.com/services/"
                 />
   </url><url>
-    <loc>http://localhost:1313/speakers/</loc>
+    <loc>https://example.com/speakers/</loc>
   </url><url>
-    <loc>http://localhost:1313/office/</loc>
+    <loc>https://example.com/office/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/ufficio/"
+                href="https://example.com/ufficio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/office/"
+                href="https://example.com/office/"
                 />
   </url>
 </urlset>
