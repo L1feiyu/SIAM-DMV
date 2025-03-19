@@ -4,11 +4,116 @@ description: 'A free hugo theme'
 draft: false
 ---
 
-<h1 style="text-align: center;">How to use this theme</h1>
+<h1 style="text-align: center;">Primary Speakers</h1>
 
-## Quick start: how to install 📥
 
-1. Install hugo extended, follow [the official installation guide](https://gohugo.io/installation/). For using this theme you **DO NOT NEED** to execute `hugo new site`, as you will be cloning an example site in step 2.
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 1" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 1</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 2" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 2</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 3" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 3</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 4" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 4</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 5" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 5</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 6" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 6</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 7" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 7</figcaption>
+    </figure>
+</div>
+
+<h1 style="text-align: center;">Organizers</h1>
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 1" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 1</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 2" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 2</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 3" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 3</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 4" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 4</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 5" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 5</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 6" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 6</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="Person 7" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 7</figcaption>
+    </figure>
+</div>
+
+<!-- <figure style="text-align: center;">
+    <img src="jhu.png" alt="test new pic" width="150" height="150" style="border-radius: 50%; object-fit: cover; display: block; margin: auto;">
+    <figcaption style="font-size: 14px; color: gray;">This is a test picture of JHU</figcaption>
+</figure> -->
+
+
+<!-- ## Quick start: how to install 📥 -->
+
+<!-- <img src="jhu.png" alt="test new pic" width="100">  Yaqi Wu
+
+<figure style="text-align: center;">
+    <img src="jhu.png" alt="test new pic" width="150" height="150" style="border-radius: 50%; object-fit: cover; display: block; margin: auto;">
+    <figcaption style="font-size: 14px; color: gray;">This is a test picture of JHU</figcaption>
+</figure>
+
+
+<!-- <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="test new pic" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 1</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="test new pic" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 2</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="test new pic" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 3</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="test new pic" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 4</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="test new pic" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 5</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="jhu.png" alt="test new pic" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Person 6</figcaption>
+    </figure>
+</div> -->
+
+<!-- 1. Install hugo extended, follow [the official installation guide](https://gohugo.io/installation/). For using this theme you **DO NOT NEED** to execute `hugo new site`, as you will be cloning an example site in step 2.
 
 2. Clone the exampleSite and the theme from the repo:`git init && git clone -b exampleSite --recurse-submodules https://github.com/ololiuhqui/magnolia-free-hugo-theme <YourSiteName>` (change \<YourSiteName\> in the command with the name you wanna give to your site).
 
@@ -126,4 +231,4 @@ The MIT license means that you are completely free to do whatevere you want with
 
 If you wish you can support me in several ways.
 
-**[Why you should btw?](/posts/why-donating-to-free-and-opensource-software-projects-is-important/)**
+**[Why you should btw?](/posts/why-donating-to-free-and-opensource-software-projects-is-important/)** -->
